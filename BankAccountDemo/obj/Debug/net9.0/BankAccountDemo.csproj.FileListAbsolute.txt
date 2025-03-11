@@ -1,0 +1,14 @@
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/BankAccountDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/BankAccountDemo.AssemblyInfoInputs.cache
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/BankAccountDemo.AssemblyInfo.cs
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/BankAccountDemo.csproj.CoreCompileInputs.cache
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/bin/Debug/net9.0/BankAccountDemo
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/bin/Debug/net9.0/BankAccountDemo.deps.json
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/bin/Debug/net9.0/BankAccountDemo.runtimeconfig.json
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/bin/Debug/net9.0/BankAccountDemo.dll
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/bin/Debug/net9.0/BankAccountDemo.pdb
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/BankAccountDemo.dll
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/refint/BankAccountDemo.dll
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/BankAccountDemo.pdb
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/BankAccountDemo.genruntimeconfig.cache
+/Users/mouad/Desktop/BankAccountDemo/BankAccountDemo/obj/Debug/net9.0/ref/BankAccountDemo.dll
